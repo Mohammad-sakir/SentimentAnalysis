@@ -1,1 +1,1 @@
-This is a customer engagement analysis Project for course "Data Analysis on Social Commerce in Middle East During COVID-19". 
+This is a customer engagement analysis Project for course "Data Analysis on Social Commerce in Middle East During COVID-19". In this project, we collected and analyzed data from social media platforms (YouTube & Twitter) on Food Delivery Services from Middle Eastern Countries.
